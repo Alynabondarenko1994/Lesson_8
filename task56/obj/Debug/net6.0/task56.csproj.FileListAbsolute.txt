@@ -1,0 +1,15 @@
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\task56.csproj.AssemblyReference.cache
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\task56.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\task56.AssemblyInfoInputs.cache
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\task56.AssemblyInfo.cs
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\task56.csproj.CoreCompileInputs.cache
+D:\учеба\Lesson_8\task56\bin\Debug\net6.0\task56.exe
+D:\учеба\Lesson_8\task56\bin\Debug\net6.0\task56.deps.json
+D:\учеба\Lesson_8\task56\bin\Debug\net6.0\task56.runtimeconfig.json
+D:\учеба\Lesson_8\task56\bin\Debug\net6.0\task56.dll
+D:\учеба\Lesson_8\task56\bin\Debug\net6.0\task56.pdb
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\task56.dll
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\refint\task56.dll
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\task56.pdb
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\task56.genruntimeconfig.cache
+D:\учеба\Lesson_8\task56\obj\Debug\net6.0\ref\task56.dll
