@@ -44,7 +44,6 @@ void PrintArray(int[,] arr, string message)
         }
         Console.WriteLine();
     }
-
 }
 
 void MultiplicationArray(int[,] a, int[,] b)
@@ -58,11 +57,8 @@ void MultiplicationArray(int[,] a, int[,] b)
             {
                 for (int t = 0; t < a.GetLength(1); t++)
                 {
-
                     c[i, j] += a[i, t] * b[t, j];
-
                 }
-
             }
         }
         PrintArray(c, "Матрица произведений первой и второй матриц имеет следующий вид:");
@@ -75,7 +71,6 @@ void MultiplicationArray(int[,] a, int[,] b)
 
 
 }
-
 
 int line = GetNumber("Задайте число строк m первой матрицы : ");
 int column = GetNumber("Задайте число столбцов n первой матрицы : ");

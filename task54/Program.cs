@@ -53,9 +53,7 @@ void DecreasingElements(int[,] arr)
 {
     Console.Write("Строки массива упорядочены по убыванию.");
     for (int i = 0; i < arr.GetLength(0); i++)
-
     {
-
         for (int k = 0; k < arr.GetLength(1); k++)
 
         {
@@ -66,16 +64,9 @@ void DecreasingElements(int[,] arr)
                     int min = arr[i, j];
                     arr[i, j] = arr[i, j + 1];
                     arr[i, j + 1] = min;
-
                 }
-
             }
-
-
-
         }
-
-
     }
 
     PrintArray(arr);

@@ -54,7 +54,6 @@ bool IsUnique(int number, int[,,] arr)
             {
                 if (number == arr[i, j, k])
                     return false;
-
             }
         }
     }
@@ -74,7 +73,6 @@ void PrintArray(int[,,] arr, string message)
             }
         }
     }
-
 }
 
 
@@ -86,7 +84,6 @@ if (firstDemension * secondDemension * threeDemension > 90)
 {
     Console.WriteLine("Количество уникальных двухзначных значений массива не может быть больше 90!");
 }
-
 else
 {
     int[,,] rnd = ArrayRandom(firstDemension, secondDemension, threeDemension);

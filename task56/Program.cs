@@ -46,7 +46,6 @@ void PrintArray(int[,] arr)
         }
         Console.WriteLine();
     }
-
 }
 
 void MinimalAmountElements(int[,] arr)
@@ -54,17 +53,12 @@ void MinimalAmountElements(int[,] arr)
 
     int[] sum = new int[arr.GetLength(0)];
     for (int i = 0; i < arr.GetLength(0); i++)
-
     {
-
         for (int j = 0; j < arr.GetLength(1); j++)
         {
             sum[i] += arr[i, j];
-
         }
         Console.WriteLine($"Сумма элементов  {i + 1} строки: {sum[i]}");
-
-
     }
     int min = sum[0];
     int l = 0;
@@ -75,12 +69,9 @@ void MinimalAmountElements(int[,] arr)
             min = sum[i];
             l = i;
         }
-
     }
 
     Console.WriteLine($"Наименьшая сумма элементов в строке: {l + 1}");
-
-
 }
 
 
